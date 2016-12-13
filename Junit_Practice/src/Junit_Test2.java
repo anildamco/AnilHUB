@@ -8,5 +8,5 @@ public class Junit_Test2 {
 	{
 		System.out.println("Lead Deleted successfully");
 	}
-
+// this is test code
 }
